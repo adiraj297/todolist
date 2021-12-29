@@ -1,0 +1,25 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "to do list api packaga.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/adiraj297/todolist.git"
+  },
+  "author": "Aditya Raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adiraj297/todolist/issues"
+  },
+  "homepage": "https://github.com/adiraj297/todolist#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
