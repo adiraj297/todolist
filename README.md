@@ -8,6 +8,6 @@ In the project directory, you can run:
 
 and:
 
-### 'npm run start'
+### `npm run start`
 
 to start the app
